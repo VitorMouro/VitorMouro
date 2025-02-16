@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 How to Reach Me
+
+- **Email:** [vitor.a.mouro@gmail.com](mailto:vitor.a.mouro@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vitor-mouro](https://linkedin.com/in/vitor-mouro)
